@@ -1,0 +1,17 @@
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos y carpetas temporales
+tmp/
+tmp_*/
+*.tmp
+*.log
+
+# Entornos y dependencias locales
+node_modules/
+.venv/
+__pycache__/
+# Dispositivo reservado de Windows, no es un archivo del proyecto
+nul
