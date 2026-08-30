@@ -23,6 +23,7 @@ Papa Libro incluye interfaz y guía fácil en **español, inglés, francés y po
 - Registro de préstamos, devoluciones y fechas previstas.
 - Búsqueda por título, autor, ISBN y etiquetas.
 - Alta manual, consulta por ISBN y lectura de códigos de barras cuando el navegador lo permite.
+- Consulta bibliográfica en Open Library, Biblioteca Nacional de España y Google Books, con alternativas si una fuente no encuentra la edición.
 - Importación y exportación de datos en JSON y CSV.
 - Guía de uso integrada y documentación imprimible.
 
