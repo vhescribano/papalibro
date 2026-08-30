@@ -3,6 +3,17 @@
 Papa Libro es una aplicación web libre de [VhEscribano](https://vhescribano.com/) para catalogar libros, organizar colecciones y controlar préstamos en bibliotecas personales, escolares o comunitarias.
 
 Está pensada para funcionar de forma sencilla, sin cuentas ni suscripciones: los datos se guardan en el navegador y se pueden exportar como copia de seguridad.
+## Para bibliotecas de cualquier lugar
+
+Papa Libro incluye interfaz y guía fácil en **español, inglés, francés y portugués**. El idioma se puede cambiar desde la propia aplicación y cada opción de Ayuda abre su guía correspondiente.
+
+**Español** — Una herramienta sencilla, sin cuentas ni suscripciones, para saber qué libros hay, dónde están y a quién se han prestado.
+
+**English** — A simple, account-free tool to know which books you have, where they are and who has borrowed them.
+
+**Français** — Un outil simple, sans compte ni abonnement, pour savoir quels livres sont disponibles, où ils se trouvent et à qui ils sont prêtés.
+
+**Português** — Uma ferramenta simples, sem conta nem subscrição, para saber que livros existem, onde estão e a quem foram emprestados.
 
 ## Funciones principales
 
@@ -27,7 +38,12 @@ La información se guarda localmente en el navegador. Use **Datos y ajustes → 
 
 ## Documentación
 
-La carpeta [docs](docs) contiene una guía fácil en PDF, Word y HTML, además del manual técnico.
+La carpeta [docs](docs) contiene guías fáciles en PDF, Word y HTML, además de los manuales ampliados:
+
+- [Guía fácil en español](docs/GUIA_FACIL_PAPA_LIBRO.html)
+- [Easy guide in English](docs/PAPA_LIBRO_EASY_GUIDE.html)
+- [Guide facile en français](docs/GUIDE_SIMPLE_PAPA_LIBRO.html)
+- [Guia fácil em português](docs/GUIA_FACIL_PAPA_LIVRO.html)
 
 ## Contribuir
 
