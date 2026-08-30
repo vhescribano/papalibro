@@ -174,4 +174,4 @@ Antes de borrar, descargue siempre una copia de seguridad.
 
 ---
 
-Para explicaciones más detalladas sobre archivos CSV, instalación o funcionamiento técnico, consulte [MANUAL_DE_USO.md](MANUAL_DE_USO.md).
+Para explicaciones más detalladas sobre archivos CSV, instalación o funcionamiento técnico, consulte [MANUAL_DE_USO_PAPA_LIBRO.md](MANUAL_DE_USO_PAPA_LIBRO.md).

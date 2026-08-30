@@ -1,6 +1,6 @@
 # Manual técnico de uso — Estantería
 
-> ¿Busca instrucciones sencillas para el día a día? Consulte primero la [Guía fácil de Estantería](GUIA_FACIL.md).
+> ¿Busca instrucciones sencillas para el día a día? Consulte primero la [Guía fácil de Papa Libro](GUIA_FACIL_PAPA_LIBRO.md).
 
 Estantería es una aplicación web para organizar libros, controlar sus copias físicas y saber rápidamente si un título está disponible. Funciona en el navegador y no requiere crear una cuenta.
 
